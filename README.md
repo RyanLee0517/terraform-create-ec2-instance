@@ -28,7 +28,7 @@ No modules.
 
 | Name | Description | Type | Default | Required |
 |------|-------------|------|---------|:--------:|
-| <a name="input_vpc_id"></a> [vpc\_id](#input\_vpc\_id) | vpc-074e2df47a3ed4983 | `string` | `"value"` | no |
+| <a name="input_vpc_id"></a> [vpc\_id](#input\_vpc\_id) | {Your Default VPC ID} | `string` | `"value"` | no |
 
 ## Outputs
 
