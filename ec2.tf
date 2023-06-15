@@ -38,7 +38,7 @@ resource "aws_instance" "jenkins" {
   vpc_security_group_ids = [aws_security_group.allow_tls.id]
 
   tags = {
-    Name = "Jenkins Master"
+    Name = "Jenkins-agent"
   }
 }
 
